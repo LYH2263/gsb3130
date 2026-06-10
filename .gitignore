@@ -1,0 +1,14 @@
+.DS_Store
+.vscode
+.idea
+node_modules
+dist
+build
+coverage
+*.log
+.env
+backend/tmp
+
+# Project notes (local only)
+题目.md
+对话/
